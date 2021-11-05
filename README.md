@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reyad000
+- 👋 Hi, I’m @reyad
 - 👀 I’m interested in research
 - 🌱 I’m currently learning data analysis, nural network, fuzzy logic
 - 💞️ I’m looking to collaborate on sharing knowledge
